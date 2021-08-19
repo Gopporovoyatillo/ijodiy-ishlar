@@ -33,7 +33,7 @@ def echo_all(message):
 bot.polling()
 
 #
-
+# manzili tme:@OLLIT_DEV_bot  yoki {   Lotin ∞ Крилл  }
 
 
 #matn=input("matn kiriting: ")
